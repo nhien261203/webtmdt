@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "../../Web_1"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "F:/Web/animation"
+		},
+		{
+			"path": "F:/Web_Lam (1)"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Web_Lam (1)"
+	},
+	"extensions": {
+		"recommendations": [
+			"zhang-renyang.chat-gpt"
+		]
+	}
+}
